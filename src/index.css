@@ -11,3 +11,20 @@ body {
 h2 {
   text-align: center;
 }
+
+/***************! Special item => (Erorr)  ***************/
+.error {
+  font-size: 50px;
+  color: black;
+  width: 100%;
+  text-align: center;
+  margin: 350px auto;
+}
+
+
+
+.main-link.active {
+  color: cyan;
+  box-shadow: 0 0 5px cyan;
+  border-radius: 5px;
+}
